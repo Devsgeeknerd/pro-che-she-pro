@@ -3,8 +3,8 @@
 
 ***Conteúdo:***
 
-* [Git & GitHub.](https://github.com/Devsgeeknerd/git-hub-che-she-pro-pro)
-* [Gitmoji.](https://github.com/Devsgeeknerd/git-moj-che-she-pro-pro)
+* [Git & GitHub.](https://github.com/Devsgeeknerd/git-hub-che-she-pro-pro) &#128679;
+* [Gitmoji.](https://github.com/Devsgeeknerd/git-moj-che-she-pro-pro) &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
