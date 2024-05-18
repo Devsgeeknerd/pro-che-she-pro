@@ -4,7 +4,7 @@
 ***Conteúdo:***
 
 * [Git & GitHub.](https://github.com/Devsgeeknerd/git-hub-che-she-pro-pro) &#128679;
-* [Gitmoji.](https://github.com/Devsgeeknerd/pad-com-che-she-pro-pro) &#128679;
+* [Padrões de Commits.](https://github.com/Devsgeeknerd/pad-com-che-she-pro-pro) &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
